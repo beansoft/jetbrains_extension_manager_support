@@ -1,0 +1,1 @@
+# jetbrains_extension_manager_support
