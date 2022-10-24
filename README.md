@@ -1,1 +1,1 @@
-# jetbrains_extension_manager_support
+# Provide support for the JetBrains Plugin: Extensions Manager
